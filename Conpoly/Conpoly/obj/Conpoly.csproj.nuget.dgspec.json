@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Heidi\\source\\repos\\Conpoly\\Conpoly\\Conpoly.csproj": {}
+    "C:\\lesprojets\\DiaHEClasse\\Conpoly\\Conpoly\\Conpoly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Heidi\\source\\repos\\Conpoly\\Conpoly\\Conpoly.csproj": {
+    "C:\\lesprojets\\DiaHEClasse\\Conpoly\\Conpoly\\Conpoly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Heidi\\source\\repos\\Conpoly\\Conpoly\\Conpoly.csproj",
+        "projectUniqueName": "C:\\lesprojets\\DiaHEClasse\\Conpoly\\Conpoly\\Conpoly.csproj",
         "projectName": "Conpoly",
-        "projectPath": "C:\\Users\\Heidi\\source\\repos\\Conpoly\\Conpoly\\Conpoly.csproj",
+        "projectPath": "C:\\lesprojets\\DiaHEClasse\\Conpoly\\Conpoly\\Conpoly.csproj",
         "packagesPath": "C:\\Users\\Heidi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Heidi\\source\\repos\\Conpoly\\Conpoly\\obj\\",
+        "outputPath": "C:\\lesprojets\\DiaHEClasse\\Conpoly\\Conpoly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
