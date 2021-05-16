@@ -1,0 +1,13 @@
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\bin\Debug\netcoreapp3.1\Conpoly.exe
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\bin\Debug\netcoreapp3.1\Conpoly.deps.json
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\bin\Debug\netcoreapp3.1\Conpoly.runtimeconfig.json
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\bin\Debug\netcoreapp3.1\Conpoly.runtimeconfig.dev.json
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\bin\Debug\netcoreapp3.1\Conpoly.dll
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\bin\Debug\netcoreapp3.1\Conpoly.pdb
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\obj\Debug\netcoreapp3.1\Conpoly.csprojAssemblyReference.cache
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\obj\Debug\netcoreapp3.1\Conpoly.AssemblyInfoInputs.cache
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\obj\Debug\netcoreapp3.1\Conpoly.AssemblyInfo.cs
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\obj\Debug\netcoreapp3.1\Conpoly.csproj.CoreCompileInputs.cache
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\obj\Debug\netcoreapp3.1\Conpoly.dll
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\obj\Debug\netcoreapp3.1\Conpoly.pdb
+C:\Users\Heidi\source\repos\Conpoly\Conpoly\obj\Debug\netcoreapp3.1\Conpoly.genruntimeconfig.cache
